@@ -54,11 +54,11 @@ add_library(rcssconfparser SHARED
     "rcssbase/conf/builder.cpp"
     "rcssbase/conf/statushandler.cpp"
     "rcssbase/conf/streamstatushandler.cpp"
-	"rcssbase/conf/builder.hpp"
-	"rcssbase/conf/parser.hpp"
-	"rcssbase/conf/paramgetter.hpp"
-	"rcssbase/conf/paramsetter.hpp"
-	"rcssbase/conf/statushandler.hpp"
+    "rcssbase/conf/builder.hpp"
+    "rcssbase/conf/parser.hpp"
+    "rcssbase/conf/paramgetter.hpp"
+    "rcssbase/conf/paramsetter.hpp"
+    "rcssbase/conf/statushandler.hpp"
     "rcssbase/conf/streamstatushandler.hpp"
 )
 
